@@ -1,5 +1,10 @@
-#CREDS
+#custom
 *.json
+*.parquet
+*.lock
+CACHEDIR.TAG
+pyvenv.cfg
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
