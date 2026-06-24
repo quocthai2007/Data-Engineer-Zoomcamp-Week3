@@ -4,7 +4,9 @@
 *.lock
 CACHEDIR.TAG
 pyvenv.cfg
-
+*.env
+*.csv*
+key/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
